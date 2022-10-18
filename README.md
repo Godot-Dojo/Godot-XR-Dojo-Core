@@ -9,6 +9,7 @@ How To:
 check out the repository and the branch that you are going to work on.
 once you have made a change to the branch you are working on, commit the change to the branch
 this means if you are working in the branch "weapons", commit there and not to main!
+As a failsave the branch that you are currently working on is going to change its icon, this is to ensure that you understand on what branch you are on before you proceed working on it, the icon change is visible once you start/restart the godot engine project manager.
 ###
 The next step:
 ---------
