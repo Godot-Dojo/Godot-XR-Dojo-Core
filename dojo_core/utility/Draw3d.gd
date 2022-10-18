@@ -1,6 +1,6 @@
 extends ImmediateGeometry
 
-const IG_SPHERE = preload("res://utility/IG_sphere.tscn")
+const IG_SPHERE = preload("res://dojo_core/utility/IG_sphere.tscn")
 # Declare member variables here. Examples:
 # var a = 2
 # var b = "text"
